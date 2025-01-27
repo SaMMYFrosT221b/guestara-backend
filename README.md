@@ -1,5 +1,10 @@
 # Guestara Backend Project
 
+### Deplyment link
+```bash
+https://guestara-backend.vercel.app/
+```
+
 ## Database Chosen: MongoDB
 
 ### Why MongoDB?
