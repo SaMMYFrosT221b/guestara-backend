@@ -14,6 +14,10 @@ app.use(express.json());
 
 app.use('/api/v1', rootRouter);
 
+app.get('/', (req, res) => {
+  res.send('Welcome to the Guestara backend');
+});
+
 app.listen(PORT, () => {
   logger.info(`Server is running at ${PORT}`);
 });
