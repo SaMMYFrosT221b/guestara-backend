@@ -1,46 +1,10 @@
-{"level":"info","message":"Server is running at 3002","service":"user-service"}
-{"level":"info","message":"Server is running at 3002","service":"user-service"}
-2025-01-26T12:05:03.140Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T12:05:35.027Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:14:47.986Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:16:00.418Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:16:32.904Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:17:47.959Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:18:09.311Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:18:09.325Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T14:18:15.870Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:18:15.883Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T14:18:52.577Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:18:52.593Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T14:19:07.949Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T14:19:07.964Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T15:04:58.409Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T15:04:58.421Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T15:07:14.688Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T15:07:14.701Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T15:07:50.941Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T15:07:50.956Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T15:08:07.139Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T15:08:07.154Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-26T15:08:43.605Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-26T15:08:43.618Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:14:59.865Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:14:59.890Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:23:26.074Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:23:26.100Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:23:31.149Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:23:31.181Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:24:20.306Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:24:20.328Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:25:42.912Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:25:42.942Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:25:47.141Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:25:47.169Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:26:19.155Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:26:19.171Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:26:50.667Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:26:50.694Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:27:34.460Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:27:34.484Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
-2025-01-27T08:27:52.935Z [[32minfo[39m]: Server is running at 3002 {"service":"user-service"}
-2025-01-27T08:27:52.958Z [[32minfo[39m]: Database connected successfully! {"service":"user-service"}
+2025-01-28T06:04:03.783Z : Server is running at 3002 {"service":"user-service"}
+2025-01-28T06:04:04.455Z : Database connected successfully! {"service":"user-service"}
+2025-01-28T06:29:23.821Z : Server is running at 3002 {"service":"user-service"}
+2025-01-28T06:29:24.621Z : Database connected successfully! {"service":"user-service"}
+2025-01-28T06:39:01.521Z : Server is running at 3002 {"service":"user-service"}
+2025-01-28T06:39:02.662Z : Database connected successfully! {"service":"user-service"}
+2025-01-28T06:43:21.989Z : Server is running at 3002 {"service":"user-service"}
+2025-01-28T06:43:22.966Z : Database connected successfully! {"service":"user-service"}
+2025-01-28T06:50:15.842Z : Server is running at 3002 {"service":"user-service"}
+2025-01-28T06:50:16.511Z : Database connected successfully! {"service":"user-service"}

@@ -8,14 +8,14 @@ export const backendLogger = () => {
       winston.format.timestamp(), // Adds timestamps to logs
       winston.format.printf(({ timestamp, level, message, ...meta }) => {
         // Custom formatting for console output
-        return `${timestamp} [${level}]: ${message} ${Object.keys(meta).length ? JSON.stringify(meta) : ''}`;
+        return `${timestamp} : ${message} ${Object.keys(meta).length ? JSON.stringify(meta) : ''}`;
       })
     ),
     defaultMeta: { service: 'user-service' },
     transports: [
       new winston.transports.Console(), // Logs to the console
-      // new winston.transports.File({ filename: "error.log", level: "error" }), // Logs only errors to error.log
-      // new winston.transports.File({ filename: "combined.log" }), // Logs all levels to combined.log
+      new winston.transports.File({ filename: 'error.log', level: 'error' }), // Logs only errors to error.log
+      new winston.transports.File({ filename: 'combined.log' }), // Logs all levels to combined.log
     ],
   });
 };

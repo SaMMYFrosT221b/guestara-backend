@@ -93,7 +93,7 @@ const deleteSubCategoryById = async (subcategoryId) => {
     if (!subcategory) {
       return { status: false, message: 'Sub Category not found' };
     }
-    await SubCategory.deleteOne({ _id: categosubCategoryIdryId });
+    await SubCategory.deleteOne({ _id: subcategoryId });
     return { status: true, message: 'Sub Category deleted.' };
   } catch (error) {
     return {
